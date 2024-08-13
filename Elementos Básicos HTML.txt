@@ -1,0 +1,7 @@
+*TAGS INICIAIS*
+
+-Titulo
+-Parágrafo
+	- O paragrafo se fá com um bloco de texto dentro da sua pagina: com a tag: <p></p>
+-Link
+	- O link se dá pela Tag: <a href=""></a>

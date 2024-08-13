@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    font-size: 63px;
+    color: #303030;
+    padding: 15px;
+    color: white;
+}
+
+header, nav{
+    background-color: #FF2912;
+}
+
+
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+}
+
+
+.img{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+.carousel-caption h5{
+    font-size: 80px;
+    color: #ffffff;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+
+
+
+

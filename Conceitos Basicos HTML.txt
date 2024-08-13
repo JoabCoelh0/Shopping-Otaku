@@ -1,0 +1,8 @@
+*HTML - Linguagem de marcação de Hipertexto*
+
+-Linguagem padão criada para Páginas Wab
+
+-Criada em 1991 pela Britanmico Tim Berners-lee e é mantidada pela W3C(Word Wide Wab Consortium)
+
+-Descreve a estrutura básica do site
+-Considere uma serie de elementos que informam ao navegador como exibir o conteúdo. Os elementos definem partes do conteúdo como "este é um título", "este é um paragrafo".
